@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class AppService {
   getHello(): string {
-    return 'Hello World!';
+    return "WELCOME TO THE WEBSITE THAT IS HOSTED IN YOUR LAUNDRY ROOM!";
   }
 }
